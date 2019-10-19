@@ -1,4 +1,4 @@
-# Music-Shop-System
+# Music&Book Shop System
 CTIS 222 Term Project
 
 <img width="407" alt="Screen Shot 2019-10-19 at 20 39 18" src="https://user-images.githubusercontent.com/16281631/67149200-fcbe3300-f2b0-11e9-961b-e6bfee921ffc.png">
